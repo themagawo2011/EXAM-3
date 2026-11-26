@@ -270,3 +270,44 @@
     border: none;
     margin: 8% 0%;
 }
+.box10{
+    background-color: #F4F5F6;
+    padding: 5%;
+}
+.bx31{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bx32{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 5%;
+}
+.bx33{
+    width: 300px;
+    height: 200px;
+    padding: 4%;
+    background-color: white;
+}
+.bx33 p{
+    padding: 2%;
+}
+.bx34{
+    margin-top: 5%;
+}
+.bx35{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 5%;
+}
+.bx35 button{
+    width: 230px;height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
