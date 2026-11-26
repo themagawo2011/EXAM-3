@@ -23,3 +23,80 @@
     align-items: center;
     gap: 20%;
 }
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.box2 {
+  background-color: rgb(119, 17, 221);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 557px;
+  overflow: hidden;
+  padding: 0 76px;
+  color: #fff;
+}
+
+.div3 {
+  width: 45%;
+  line-height: 1.5;
+}
+
+.div3 h1 {
+  font-family: "Gochi Hand", cursive;
+  font-size: 52px;
+  line-height: 1.1;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.div3 p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.b {
+  display: flex;
+  gap: 14px;
+  margin-top: 30px;
+}
+
+.b1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: white;
+  color: black;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 8px 18px;
+  box-shadow: 0 4px 0 black;
+}
+
+.b1 img {
+  width: 20px;
+}
+
+.b1 h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.div4 {
+  position: relative;
+  width: 500px;
+  height: 557px;
+}
+
+.div4 img {
+  position: absolute;
+}
+
+.im1 { z-index: 1; left: 48px;  top: 35px;  width: 300px; }
+.im2 { z-index: 2; left: 350px; top: 225px; width: 40%px; }
+.im3 { z-index: 3; left: -2px;  top: 472px; width: 40%; }
+.im4 { z-index: 4; left: 358px; top: 462px; width: 50%; }
+.im5 { z-index: 5; left: 145px; top: 68px;  width: 65%; }
+.im6 { z-index: 6; left: 72px;  top: 350px; width: 30%; }
