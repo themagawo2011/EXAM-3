@@ -330,3 +330,61 @@
     margin-top: 50px;
     margin-bottom: 150px;
 }
+
+
+
+.peo{
+    width: 570px;
+    height: 85px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #636066;
+}
+
+.dpeo1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
+
+.dsh1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 220px;
+}
+
+
+.peo1{
+    font-size: 20px;
+    font-weight: 500;
+    color: #000000;
+    margin-top: -40px;
+}
+
+.peo2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+
+.dpeo2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+
+
+.dsh2{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 230px;
+    margin-bottom: 150px;
+}
