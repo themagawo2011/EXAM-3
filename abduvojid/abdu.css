@@ -310,4 +310,21 @@
     background-color: #7772F1;
     color: white;
     border: none;
+}.box99 {
+    width: 240px;
+    height: 145px;
+    border: 1px solid #9855ff;
+    text-align: center;
+    padding: 15px;
+}
+.box99 h3 {
+    font-size: 13px;
+    color: #222;
+    margin-bottom: 8px;
+}
+
+.box99 p {
+    font-size: 10px;
+    color: #888;
+    line-height: 16px;
 }
