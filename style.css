@@ -388,3 +388,58 @@
     gap: 230px;
     margin-bottom: 150px;
 }
+
+.e1{
+    font-size: 16px;
+    font-weight: 500;
+    color: #8643DC;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.e2{
+    width: 351px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #000000;
+}
+
+
+.e3{
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.e4{
+    width: 197px;
+    height: 72px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.x{
+    width: 215px;
+}
+
+
+.leave{
+    z-index: 10;
+    margin-top: -85px;
+    margin-left: 20px;
+}
+
+.x1{
+    margin-top: -110px;
+    margin-left: 20px;
+}
+
+.box6{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 40px;
+    margin-top: 250px;
+    margin-bottom: 200px;
+}
