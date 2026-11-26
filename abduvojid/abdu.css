@@ -99,3 +99,29 @@
     margin:  10%;
     gap: 100px;
 }
+.bx12{
+    margin-left: 10%;
+    width: 70%;
+    height: 500px;
+}
+.box5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: -35%;
+}
+.bx13 p{
+    padding: 6% 0%;
+}
+.bx14 img{
+    Width:500px;
+    Height:400px;
+}
+.bx13 button{
+    width: 45%;
+    height: 30px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
