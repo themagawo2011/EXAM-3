@@ -245,3 +245,28 @@
     color: white;
     border: none;
 }
+.box9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 8%;
+}
+.bx29 h3{
+    padding: 2% 0%;
+}
+.bx29 p{
+    padding: 2% 3%;
+    width: 600px;
+}
+.bx29 h1{
+    padding: 3% 0%;
+}
+.bx29 button{
+    width: 184px;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+    margin: 8% 0%;
+}
