@@ -209,6 +209,7 @@
     height: 725px;
     background-color: #ffb1de2a;
     padding-top: 50px;
+    margin-bottom: 50px;
 }
 
 .twoimg{
@@ -237,4 +238,95 @@
     justify-content: center;
     align-items: center;
     gap: 790px;
+}
+
+
+.o{
+    width: 200px;
+}
+
+
+.d1{
+    width: 170px;
+    height: 170px;
+    border: 1px solid #FFE7F0;
+    border-radius: 10px;
+    background-color: #FFF6FA;
+    box-shadow: 0px 0px 50px #FFE7F0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.d2{
+    width: 170px;
+    height: 170px;
+    border: 1px solid #CAFFE1;
+    border-radius: 10px;
+    background-color: #EDFFF5;
+    box-shadow: 0px 0px 50px #CAFFE1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.d3{
+    width: 170px;
+    height: 170px;
+    border: 1px solid #DDF5FF;
+    border-radius: 10px;
+    background-color: #F5FCFF;
+    box-shadow: 0px 0px 50px #DDF5FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.d4{
+    width: 170px;
+    height: 170px;
+    border: 1px solid #FFEEC9;
+    border-radius: 10px;
+    background-color: #FFFBF2;
+    box-shadow: 0px 0px 50px #FFEEC9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.d5{
+    width: 170px;
+    height: 170px;
+    border: 1px solid #DBFFC3;
+    border-radius: 10px;
+    background-color: #F4FFED;
+    box-shadow: 0px 0px 50px #DBFFC3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.p41{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 150px;
 }
