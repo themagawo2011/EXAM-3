@@ -125,3 +125,14 @@
     color: white;
     border: none;
 }
+.box6{
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    text-align: center;
+}
+.box6 p{
+    padding: 10% 0%;
+}
