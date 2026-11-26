@@ -439,3 +439,34 @@
     margin-left: -20%;
     margin-top: 5%;
 }
+.box14{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.bx46 p{
+    padding: 4% 0%;
+}
+.bx46 img{
+    width: 80%;
+    height: 300px;
+}
+.bx45 p{
+    padding: 5% 0%;
+}
+.bx45{
+    font-size: 20px;
+}
+.bx45 button{
+    width: 40%;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
+.bx46 button{
+    background-color: white;
+    border: none;
+    
+}
