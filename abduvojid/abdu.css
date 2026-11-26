@@ -415,3 +415,27 @@
     cursor: pointer;
     margin: 7% 0%;
 }
+.box13{
+    text-align: center;
+    margin: 10% 0%;
+}
+.bx43{
+    width: 60%;
+    height: 300px;
+    margin-top: -30%;
+    margin-left: 10%;
+}
+.bx44{
+    width: 100%;
+    height: 300px;
+    margin-top: -15%;
+}
+.bx44 p{
+    text-align: start;
+    margin-left: 30%;
+}
+.bx44 img{
+    text-align: start;
+    margin-left: -20%;
+    margin-top: 5%;
+}
