@@ -92,3 +92,10 @@
 .bx9{
     font-size: 25px;
 }
+.box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:  10%;
+    gap: 100px;
+}
