@@ -1,7 +1,16 @@
- *{
-margin: 0;
- }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e5e5e5;
+    font-family: Arial, sans-serif;
+    color: black;
+}
  .name {
+   
     padding: 20px;
     display: flex;
     gap: 100px;
@@ -13,4 +22,171 @@ margin: 0;
 a {
     color: white;
     font-size: 20px;
+}
+.header {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 25px 7%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h3 {
+    font-size: 18px;
+}
+
+nav {
+    display: flex;
+    gap: 30px;
+    margin-left: -100px;
+}
+
+nav h3 {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+.hero {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 65px 7%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-text {
+    width: 55%;
+}
+
+.hero-text h1 {
+    font-size: 45px;
+    line-height: 1.15;
+}
+
+.hero-text h1 span {
+    color: coral;
+}
+
+.hero-text p {
+    color: gray;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-top: 20px;
+    width: 90%;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 25px;
+}
+
+.buttons button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+}
+
+.buttons a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+
+.hero-image {
+    width: 40%;
+}
+
+.hero-image img {
+  margin-left: 1px;
+}
+
+.trusted {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 50px 7%;
+    text-align: center;
+}
+
+.trusted p {
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logos h4 {
+    font-size: 13px;
+    color: #454b55;
+}
+
+.services {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 65px 7%;
+    text-align: center;
+}
+
+.small-title {
+    color: red;
+    letter-spacing: 3px;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+.services h2 {
+    font-size: 34px;
+    line-height: 1.2;
+}
+
+.service-box {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+.service {
+    width: 33.33%;
+}
+
+.service-icon {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+.service h3 {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.service p {
+    color: gray;
+    font-size: 13px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.service ul {
+    padding-left: 15px;
+}
+
+.service li {
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 12px;
 }
