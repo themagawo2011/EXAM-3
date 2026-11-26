@@ -136,3 +136,55 @@
 .box6 p{
     padding: 10% 0%;
 }
+.box7{
+    margin-top: 10%;
+}
+.bx19{
+    text-align: center;
+}
+.bx20{
+    margin: 4% 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+.bx20 button{
+    background-color: white;
+    color: #7772F1;
+    border: 1px solid #7772F1;
+    width: 220px;
+    height: 50px;
+}
+.bx21{
+   text-align: end;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -40%;
+    margin-left: 10%;
+}
+.bx22 h3{
+    padding: 5% 0%;
+    font-size: 30px;
+}
+.bx22 button{
+    margin: 5% 0%;
+    width: 139px;
+    height: 43px;
+}
+.bx22 p{
+    padding: 1% 0%;
+}
+.but{
+    border: 1px solid #7772F1;
+    background-color: white;
+    color:#7772F1;
+}
+.but1{
+    background-color: #7772F1;
+    border: none;
+    color: white;
+}
