@@ -188,3 +188,60 @@
     border: none;
     color: white;
 }
+.box8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E212C;
+    color: white;
+    padding: 2%;
+    margin-top: 10%;
+    gap: 50px;
+}
+.bx26{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.bx26 input{
+    margin: 5% 0%;
+    width: 256px;
+    height: 30px;
+    padding: 0% 3%;
+    background-color: #FFFFFF33;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.bx27 input{
+    margin: 2% 0%;
+    width: 512px;
+    height: 30px;
+    padding: 0% 3%;
+    background-color: #FFFFFF33;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.bx26 ::placeholder{
+    color: white;
+}
+.bx27 ::placeholder{
+    color: white;
+}
+.bx28{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4% 0%;
+    gap: 120px;
+    margin: 5% 0%;
+}
+.bx28 button{
+    width: 138px;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
