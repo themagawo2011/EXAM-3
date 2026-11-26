@@ -67,3 +67,89 @@
     align-items: center;
     gap: 300px;
 }
+
+.p1box2{
+    width: 262px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #25202F;
+}
+
+.h1box2{
+    width: 361px;
+    font-size: 60px;
+    font-weight: 700;
+    color: #25202F;
+}
+
+.bt1{
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 100px;
+    background-color: #8643DC;
+    font-size: 24px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.div1box2{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+
+.mor1{
+    position: absolute;
+    right: 370px;
+}
+
+.mor2{
+    position: absolute;
+    right: 790px;
+    top: 900px;
+}
+
+.el1{
+    position: absolute;
+    right: 76.5px;
+    top: 400px;
+    z-index: -2;
+}
+
+.doira{
+    position: absolute;
+    right: 365px;
+    top: 430px;
+}
+
+.doira2{
+    position: absolute;
+    right: 859px;
+    top: 530px;
+}
+
+.doira3{
+    position: absolute;
+    right: 657px;
+    top: 1050px;
+}
+
+.nqt{
+    position: absolute;
+    right: 158px;
+    top: 530px;
+}
+    
+
+.box2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0px;
+    margin-bottom: 200px;
+    margin-top: -80px;
+}
