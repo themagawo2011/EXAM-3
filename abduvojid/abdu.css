@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -53%;
+}
+.bx1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
