@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+.box1 {
+    background-color: rgb(119, 17, 221);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 35%;
+    padding: 15px;
+}
+.div1 {
+    padding: 15px 5px;
+    background-color: aqua;
+    color: white;
+    width: 5%;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.div2 {
+    display: flex;
+    align-items: center;
+    gap: 20%;
+}
