@@ -76,7 +76,7 @@
     align-items: center;
     margin-top: 15%;
 }
-.BOX{
+.BOX22{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -468,5 +468,64 @@
 .bx46 button{
     background-color: white;
     border: none;
-    
+
+}
+.box15{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    background-color: #1E212C;
+    color: white; 
+    height: 450px; 
+    padding: 2%; 
+    margin-top: 5%;
+}
+.box15 p{
+    padding: 5% 0%;
+    color: gray;
+}
+.bx47{
+    width: 30%;
+}
+.bx52{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.box16{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -5%;
+}
+.bx53{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    width: 30%;
+}
+.bx53 button{
+    width: 15%;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
+.bx17{
+    background-color: #2e313b;
+    color: white;
+    padding: 1%;
+    margin: 1% 0%;
+}
+.bx51 button{
+    width: 80%;
+    height: 33px;
+    margin: 2% 0%;
+    border: none;
+    color: white;
+    background-color: #292c35;
 }
