@@ -1,0 +1,472 @@
+*{
+    margin: 0;
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -53%;
+}
+.bx1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: white;
+}
+.bx3 button{
+    background-color: #7772F1;
+    color: white;
+    width: 185px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.box2{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 60px;
+    margin-top: 6%;
+}
+.bx4 span{
+    color: #7772F1;
+}
+.bx4{
+    font-size: 30px;
+    text-align: start;
+    color: white;
+}
+.bx5{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.bx6 img{
+    width: 400px;
+    height: 400px;
+}
+.bx5 button{
+    background-color: rgba(255, 255, 255, 0.247);
+    color: white;
+    width: 185px;
+    height: 40px;
+    border: 1px solid black;
+}
+.bx5 img{
+    margin-left: 5%;
+}
+.bx7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+.bx8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    margin-top: 5%;
+}
+.box3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 15%;
+}
+.BOX{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.bx11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 3% 0%;
+}
+.bx9{
+    font-size: 25px;
+}
+.box4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:  10%;
+    gap: 100px;
+}
+.bx12{
+    margin-left: 10%;
+    width: 70%;
+    height: 500px;
+}
+.box5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: -35%;
+}
+.bx13 p{
+    padding: 6% 0%;
+}
+.bx14 img{
+    Width:500px;
+    Height:400px;
+}
+.bx13 button{
+    width: 45%;
+    height: 30px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
+.box6{
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    text-align: center;
+}
+.box6 p{
+    padding: 10% 0%;
+}
+.box7{
+    margin-top: 10%;
+}
+.bx19{
+    text-align: center;
+}
+.bx20{
+    margin: 4% 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+}
+.bx20 button{
+    background-color: white;
+    color: #7772F1;
+    border: 1px solid #7772F1;
+    width: 220px;
+    height: 50px;
+}
+.bx21{
+   text-align: end;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -40%;
+    margin-left: 10%;
+}
+.bx22 h3{
+    padding: 5% 0%;
+    font-size: 30px;
+}
+.bx22 button{
+    margin: 5% 0%;
+    width: 139px;
+    height: 43px;
+}
+.bx22 p{
+    padding: 1% 0%;
+}
+.but{
+    border: 1px solid #7772F1;
+    background-color: white;
+    color:#7772F1;
+}
+.but1{
+    background-color: #7772F1;
+    border: none;
+    color: white;
+}
+.box8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1E212C;
+    color: white;
+    padding: 2%;
+    margin-top: 10%;
+    gap: 50px;
+}
+.bx26{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.bx26 input{
+    margin: 5% 0%;
+    width: 256px;
+    height: 30px;
+    padding: 0% 3%;
+    background-color: #FFFFFF33;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.bx27 input{
+    margin: 2% 0%;
+    width: 512px;
+    height: 30px;
+    padding: 0% 3%;
+    background-color: #FFFFFF33;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.bx26 ::placeholder{
+    color: white;
+}
+.bx27 ::placeholder{
+    color: white;
+}
+.bx28{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4% 0%;
+    gap: 120px;
+    margin: 5% 0%;
+}
+.bx28 button{
+    width: 138px;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
+.box9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 8%;
+}
+.bx29 h3{
+    padding: 2% 0%;
+}
+.bx29 p{
+    padding: 2% 3%;
+    width: 600px;
+}
+.bx29 h1{
+    padding: 3% 0%;
+}
+.bx29 button{
+    width: 184px;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+    margin: 8% 0%;
+}
+.box10{
+    background-color: #F4F5F6;
+    padding: 5%;
+}
+.bx31{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bx32{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 5%;
+}
+.bx33{
+    width: 300px;
+    height: 200px;
+    padding: 4%;
+    background-color: white;
+}
+.bx33 p{
+    padding: 2%;
+}
+.bx34{
+    margin-top: 5%;
+}
+.bx35{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 5%;
+}
+.bx35 button{
+    width: 230px;height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}.box99 {
+    width: 240px;
+    height: 145px;
+    border: 1px solid #9855ff;
+    text-align: center;
+    padding: 15px;
+}
+.box99 h3 {
+    font-size: 13px;
+    color: #222;
+    margin-bottom: 8px;
+}
+
+.box99 p {
+    font-size: 10px;
+    color: #888;
+    line-height: 16px;
+}
+.box99 img{
+    padding: 3% 0%;
+}
+.BOX11{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box11{
+    margin-top: 10%;
+    width: 100%;
+}
+.BOX{
+    display: flex;
+    flex-direction: column;
+}
+.bx36{
+    padding: 5% 10%;
+    text-align: center;
+    font-size: 30px;
+}
+.bx39 {
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.bx39 h1 {
+    font-size: 40px;
+    color: #7772F1;
+}
+
+.bx39 p {
+    padding: 10px 20%;
+    text-align: start;
+}
+
+.bx39 button {
+    padding: 12px 35px;
+    background-color: white;
+    color:#7772F1;
+    border:1px solid #7772F1;
+    cursor: pointer;
+    margin: 7% 0%;
+}
+.bx37{
+    margin: 5% 0%;
+    text-align: center;
+    padding: 5%;
+}
+.bx37 img{
+    padding: 3% 0%;
+}
+.bx38{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.bx40 {
+    background-color: #1E212C;
+    color: white;
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.bx40 h1 {
+    font-size: 40px;
+    color: #03CEA4;
+}
+
+.bx40 p {
+    padding: 10px 20%;
+    text-align: start;
+}
+
+.bx40 button {
+    padding: 12px 35px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 7% 0%;
+}
+.box13{
+    text-align: center;
+    margin: 10% 0%;
+}
+.bx43{
+    width: 60%;
+    height: 300px;
+    margin-top: -30%;
+    margin-left: 10%;
+}
+.bx44{
+    width: 100%;
+    height: 300px;
+    margin-top: -15%;
+}
+.bx44 p{
+    text-align: start;
+    margin-left: 30%;
+}
+.bx44 img{
+    text-align: start;
+    margin-left: -20%;
+    margin-top: 5%;
+}
+.box14{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.bx46 p{
+    padding: 4% 0%;
+}
+.bx46 img{
+    width: 80%;
+    height: 300px;
+}
+.bx45 p{
+    padding: 5% 0%;
+}
+.bx45{
+    font-size: 20px;
+}
+.bx45 button{
+    width: 40%;
+    height: 33px;
+    background-color: #7772F1;
+    color: white;
+    border: none;
+}
+.bx46 button{
+    background-color: white;
+    border: none;
+    
+}
