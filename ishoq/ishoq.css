@@ -9,8 +9,9 @@ body {
     font-family: Arial, sans-serif;
     color: black;
 }
- .name {
-   
+
+.name {
+
     padding: 20px;
     display: flex;
     gap: 100px;
@@ -23,6 +24,7 @@ a {
     color: white;
     font-size: 20px;
 }
+
 .header {
     width: 95%;
     margin: auto;
@@ -105,7 +107,7 @@ nav h3 {
 }
 
 .hero-image img {
-  margin-left: 1px;
+    margin-left: 1px;
 }
 
 .trusted {
@@ -189,4 +191,412 @@ nav h3 {
     font-size: 12px;
     font-weight: bold;
     margin-bottom: 12px;
+}
+
+
+.salom1 {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 50px 7%;
+}
+
+.salom2 {
+    color: #a34cff;
+    font-size: 13px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+
+.salom3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.salom3 h2 {
+    font-size: 32px;
+}
+
+.salom4 {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 25px;
+    font-size: 12px;
+}
+
+.salom5 {
+    display: flex;
+    gap: 100px;
+    overflow: hidden;
+}
+
+.salom6 {
+    min-width: 32%;
+    background-color: white;
+}
+
+.salom7 {
+    height: 180px;
+
+}
+
+.salom9 {
+    height: 180px;
+
+}
+
+.salom10 {
+    height: 180px;
+
+}
+
+.salom8 {
+    margin-top: 150px;
+    padding: 20px;
+    background-color: #babcbf;
+}
+
+.salom8 p {
+    color: blue;
+    font-size: 10px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.salom8 h3 {
+    color: white;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.salom8 a {
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.salom11 {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+    margin-top: 15px;
+}
+
+.salom11 button {
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+
+
+.salom12 {
+    width: 95%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 60px 7%;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.salom13 {
+    width: 40%;
+}
+
+.salom14 {
+    color: orange;
+    font-size: 13px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+
+.salom13 h2 {
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+.salom13 a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.salom15 {
+    width: 60%;
+}
+
+.salom16 {
+    padding: 20px 0;
+    border-bottom: 1px solid #333;
+}
+
+.salom16 p {
+    font-size: 10px;
+    color: #cccccc;
+    margin-bottom: 20px;
+}
+
+.salom16 h3 {
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.salom16 a {
+    color: white;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.salom17 {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 60px 7%;
+}
+
+.salom18 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.salom18 div p {
+    color: red;
+    font-size: 12px;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+}
+
+.salom18 h2 {
+    font-size: 35px;
+}
+
+.salom19 {
+    width: 50%;
+    color: gray;
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+.salom20 {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr;
+    gap: 10px;
+    height: 300px;
+}
+
+.salom20 img {
+    width: 300px;
+    height: 350px;
+     
+}
+
+.salom21 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.salom21 img {
+     width: 300px;
+    height: 170px;
+}
+
+.salom22 {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    margin-top: 70px;
+}
+
+.salom23 {
+    width: 50%;
+}
+
+.salom23 h3 {
+    font-size: 23px;
+    font-weight: normal;
+    margin-bottom: 35px;
+}
+
+.salom24 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.salom24 h4 {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.salom24 p {
+    color: gray;
+    font-size: 11px;
+}
+
+.salom24 span {
+    font-size: 10px;
+    color: gray;
+}
+
+.salom25 {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+    padding: 60px 7%;
+}
+
+.salom25 h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.salom26 {
+    display: flex;
+    align-items: center;
+    gap: 10%;
+}
+
+.salom26 img {
+    width: 38%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.salom27 {
+    width: 52%;
+}
+
+
+.salom27 h3 {
+    font-size: 22px;
+    line-height: 1.4;
+    margin-bottom: 55px;
+}
+
+.salom28 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.salom28 h4 {
+    font-size: 12px;
+}
+
+.salom28 p {
+    font-size: 10px;
+    margin-top: 5px;
+}
+
+.salom29 {
+    display: flex;
+}
+
+.salom29 button {
+    width: 40px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.salom30 {
+    width: 95%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 60px 7%;
+}
+
+.salom31 {
+    color: orange;
+    text-align: center;
+    font-size: 13px;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+
+.salom30>h2 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 80px;
+}
+
+.salom32 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 35px;
+}
+
+.salom33 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 22px 0;
+    border-bottom: 1px solid #333333;
+}
+
+.salom33 p {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.salom33 span {
+    font-size: 17px;
+}
+
+.salom34 {
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+
+.salom34 h2 {
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.salom34 h2:last-child {
+    color: blue;
+}
+
+.salom35 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-top: 1px solid #222222;
+    padding-top: 30px;
+}
+
+.salom35 h3 {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+.salom35 p {
+    color: gray;
+    font-size: 11px;
+    margin-bottom: 12px;
+}
+
+.salom36 {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 20px 40px;
+}
+
+.salom36 a {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
 }
