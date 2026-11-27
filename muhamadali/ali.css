@@ -206,3 +206,88 @@ h1 {
 .box3 {
     margin-top: 5%;
 }
+
+.box4 {
+    background-color: #962EFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.div6 {
+    line-height: 1.5;
+}
+
+.bn2 {
+    display: flex;
+    gap: 30px;
+    margin-top: 15%;
+}
+
+.hh {
+    padding: 8px 170px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 20px;
+    border: 2px solid black;
+    margin-top: 3%;
+}
+
+.hb {
+    background-color: rgb(255, 189, 18);
+    padding: 8px 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    margin-top: 3%;
+}
+
+.div7 {
+    position: relative;
+    width: 400px;
+    height: 450px;
+    margin-top: 3%;
+}
+
+.div7 img {
+    position: absolute;
+}
+
+.ig {
+    z-index: 1;
+    left: 91%;
+    top: 33%;
+}
+
+.ig0 {
+    z-index: 1;
+    left: 82%;
+    top: 62%;
+}
+
+.ig1 {
+    z-index: 1;
+    width: 100%;
+}
+
+.ig2 {
+    z-index: 2;
+    width: 95%;
+    left: 3%;
+    top: 2%;
+
+}
+
+.ig3 {
+    z-index: 3;
+    width: 75%;
+    left: 12%;
+    top: 10%;
+}
+.ig4 {
+    z-index: 3;
+    width: 85%;
+    left: 7.5%;
+    top: 8%;
+}
