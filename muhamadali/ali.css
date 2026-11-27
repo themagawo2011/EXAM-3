@@ -302,38 +302,176 @@ h1 {
 .dv1 {
     line-height: 1.5;
 }
+
 .box6 {
     display: flex;
     justify-content: space-around;
     align-items: center;
     margin-top: 5%;
 }
+
 .dv2 {
     background-color: rgb(249, 90, 44);
     line-height: 2;
     padding: 3% 3%;
     border-radius: 10px;
 }
+
 .bt {
     margin-top: 12%;
     padding: 7% 28%;
     border-radius: 10px;
 }
+
 .dv3 {
     background-color: aqua;
     line-height: 2;
     padding: 3% 3%;
     border-radius: 10px;
 }
+
 .dv4 {
     background-color: #962EFF;
     line-height: 2;
     padding: 3% 3%;
     border-radius: 10px;
 }
+
 .dv5 {
     background-color: #FFBD12;
     line-height: 2;
     padding: 3% 3%;
     border-radius: 10px;
+}
+
+.dv8 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.d7 img {
+    position: static;
+    width: 30px;
+}
+
+.d7 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 24px;
+    background-color: rgb(250, 102, 72);
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 5px 0 black;
+}
+
+.d7 img {
+    width: 30px;
+}
+
+.d7 h2 {
+    color: white;
+}
+
+.box7 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+    line-height: 1.5;
+}
+
+.in {
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+    padding: 0 1px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 8px;
+    box-shadow: 0 3px 0 black;
+}
+
+.dv8 {
+    margin-top: 20%;
+}
+
+.div9 {
+    width: 30%;
+    border: 2px solid black;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.div {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 5%;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.di {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 5%;
+    align-items: center;
+    margin-top: 15%;
+}
+
+.pn {
+    background-color: orangered;
+    padding: 10px 30px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 3px 0 black;
+    border: 3px solid black;
+}
+
+.box8 {
+    background-color: rgb(150, 46, 255);
+}
+
+.h4 {
+    padding: 15px 5px;
+    background-color: aqua;
+    color: white;
+    width: 5%;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.h7 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 24px;
+    background-color: rgb(255, 189, 18);
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 5px 0 black;
+}
+
+.box8 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2%;
+    margin-top: 5%;
+}
+
+.h5 {
+    display: flex;
+    gap: 15%;
+    color: white;
+}
+
+.h6 {
+    display: flex;
+    gap: 10%;
+    color: white;
 }
